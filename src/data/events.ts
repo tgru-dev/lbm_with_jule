@@ -85,7 +85,7 @@ export const detailedEvents: DetailedEvent[] = [
   {
     id: 3,
     date: "15:00",
-    title: "Stadt, Land, Vollpfosten",
+    title: "Stadt, Land, Vollpfosten 💥",
     description: "Diesmal ein freiwilliges Spiel",
     image: "https://i.postimg.cc/mkNgQywv/stadt.jpg",
     longDescription: "Auch in den Hallen der Manga-Comic-Con haben wir uns ein wenig umgeschaut. Dort sind wir auf den Stand des Verlags Denkriese gestoßen, der vor allem für das Spiel Stadt, Land, Vollpfosten bekannt ist. Passend zur Messe stellten sie eine Extreme-Version vor, die direkt vor Ort ausprobiert werden konnte. Also haben wir uns als Gruppe ein paar Runden gegönnt. Anfangs war es ziemlich witzig, aber nach einer Weile ließ der Spaß dann doch etwas nach. Trotzdem war die Stimmung am Stand sehr entspannt, auch wenn er ziemlich gut besucht war. Insgesamt ein netter Zwischenstopp auf unserem Rundgang durch die Messehallen – mal was anderes abseits von Büchern und Lesungen.",
@@ -152,7 +152,7 @@ Dieser Tag war eine Achterbahn der Gefühle – von Frustration über Hoffnung b
       },
       {
         title: "Side Infos",
-        content: "Für sämmtlichen Text auf diesem Post ist Jule verantwortlich."
+        content: "Jule ist verantwortlich für den gesamten Text in diesem Beitrag."
       }
     ],
     media: [
@@ -164,8 +164,8 @@ Dieser Tag war eine Achterbahn der Gefühle – von Frustration über Hoffnung b
     ],
     links: [
       {
-        title: "Rückblick Leipziger Buchmesse 2025 | DENKRIESEN",
-        url: "https://www.youtube.com/watch?v=dk8h7Ic0wCo"
+        title: "MDR Artikel",
+        url: "https://www.mdr.de/kultur/buchmesse/leipzig-news-ticker-buchmesse-manga-cosplay-freitag-kultur-news-124.html"
       }
     ]
   },
