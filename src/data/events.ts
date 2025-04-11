@@ -92,7 +92,7 @@ export const detailedEvents: DetailedEvent[] = [
     additionalInfo: [
       {
         title: "Gruppe (Mitglieder)",
-        content: "Anny, Kito, Miriam , Jule & Tim"
+        content: "Anny, Kito, Emelie, Miriam , Jule & Tim"
       },
       {
         title: "Side Infos",
